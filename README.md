@@ -17,15 +17,15 @@ The dataset contains information on 7,043 customers, including:
 
 ## Screenshots
 ### Churn Overview
-![Churn Overview](path/to/screenshot1.png)
+![Churn Overview](screenshots/Screenshot01.png)
 
 ### Demographic Analysis
-![Demographic Analysis](path/to/screenshot2.png)
+![Demographic Analysis](screenshots/Screenshot02.png)
 
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MaleeshaAluwihare/Churn_Analysis_Dashboard_-Power-Bi-.git
    ```
 2. Open the `.pbix` file in Power BI Desktop.
 3. Explore the visualizations and customize filters as needed to gain insights.
