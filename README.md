@@ -17,10 +17,10 @@ The dataset contains information on 7,043 customers, including:
 
 ## Screenshots
 ### Churn Overview
-![Churn Overview](screenshots/Screenshot02.png)
+![Churn Overview](screenshots/Screenshot01.png)
 
 ### Demographic Analysis
-![Demographic Analysis](screenshots/Screenshot01.png)
+![Demographic Analysis](screenshots/Screenshot02.png)
 
 ## How to Use
 1. Clone this repository:
